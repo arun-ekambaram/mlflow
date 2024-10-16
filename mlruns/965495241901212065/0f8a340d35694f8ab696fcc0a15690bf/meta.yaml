@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965495241901212065/0f8a340d35694f8ab696fcc0a15690bf/artifacts
+end_time: 1729070452568
+entry_point_name: ''
+experiment_id: '965495241901212065'
+lifecycle_stage: active
+run_id: 0f8a340d35694f8ab696fcc0a15690bf
+run_name: calm-snake-35
+run_uuid: 0f8a340d35694f8ab696fcc0a15690bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729070452527
+status: 3
+tags: []
+user_id: arunekambaram
