@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/666167494503346351/aecaa0af6db8456f8c9611f70e73e0c6/artifacts
+end_time: 1729086599213
+entry_point_name: ''
+experiment_id: '666167494503346351'
+lifecycle_stage: active
+run_id: aecaa0af6db8456f8c9611f70e73e0c6
+run_name: peaceful-jay-120
+run_uuid: aecaa0af6db8456f8c9611f70e73e0c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729086596170
+status: 3
+tags: []
+user_id: arunekambaram
